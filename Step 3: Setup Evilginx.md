@@ -44,7 +44,19 @@ lures get-url 0
 
 Our phishlet is now active and accessible via the URL https://login.evilginxtest.shop/RdgjuhBs (no longer active). When accessing the URL from the lure, you’ll be treated as an authenticated session, thus avoiding being blocked. 
 
-Let us see what happens when a user goes to this link 
+Let us see what happens when a user goes to this link:
+
+It seems like a regular microsoft login page.
+![image](https://github.com/user-attachments/assets/dcf20d05-6fe2-40ff-97de-4fdee2eb6d06)
+
+After entering the username and password, the user's credentials are caught through the reverse proxy the malicious domain simulates
+![image](https://github.com/user-attachments/assets/b8fb9489-1cb8-4d6c-a3fc-38e4b8ee562f)
+
+After a full sign in, we have got the session cookies. We can use the command "Sessions 0" (mine may be a different number, because I had multiple.)
+![image](https://github.com/user-attachments/assets/8f293e48-b323-4167-8566-2102eec0da22)
+
+And there you go. If you copy and paste these cookies after clearing your own into a cookie extension on your browser while on office.com, you refresh the page and you are in!
+
 
 
 
