@@ -20,5 +20,5 @@ Setup your password, and press "Create Server"
 - **OS**: Debian 11 Bullseye
 - **vCPU**: 1 core
 - **RAM**: 1 GB
-- **Storage**: 20 GB SSD
+- **Storage**: 10 GB SSD
 - **Public IP**: Static, provided at creation
