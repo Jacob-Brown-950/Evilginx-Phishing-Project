@@ -44,6 +44,8 @@ lures get-url 0
 
 Our phishlet is now active and accessible via the URL https://login.evilginxtest.shop/RdgjuhBs (no longer active). When accessing the URL from the lure, you’ll be treated as an authenticated session, thus avoiding being blocked. 
 
-Let us see what happens when a user goes to this link:
+Let us see what happens when a user goes to this link 
+
+
 
 
