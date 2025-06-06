@@ -48,7 +48,7 @@ phishlets hostname o365 <yourdomain>
 phishlets enable o365
 ```
 
-If you encounter an SSL/TLS error at this stage, it indicates that your DNS records are not yet in place. When a phishlet is enabled, Evilginx attempts to obtain a free SSL certificate from LetsEncrypt for the new domain.
+If you encounter an SSL/TLS error at this stage, just keep re-running the command until it works. it indicates that your DNS records are not yet in place. When a phishlet is enabled, Evilginx attempts to obtain a free SSL certificate from LetsEncrypt for the new domain.
 However, this process requires the domain to be accessible. Once the new SSL certificate is successfully activated, you can anticipate some traffic from scanners. If you’ve previously adjusted the blacklist to “unauth,” these scanners will be blocked.
 
 In the next step, we’ll set the lure for the Office 365 phishlet and define the redirect URL. This URL comes into play after the credentials are phished and can be customized according to your preferences. For this example, we’ll use https://portal.office.com/.
