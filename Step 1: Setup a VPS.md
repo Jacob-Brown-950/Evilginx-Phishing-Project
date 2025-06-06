@@ -20,5 +20,6 @@ After creating your account, we can go ahead and spin up a new server
 ![image](https://github.com/user-attachments/assets/afa889fc-4f9f-4160-9af9-5c8f9957c32e)
 ![image](https://github.com/user-attachments/assets/caac5130-7987-4efa-808b-d6db06f42033)
 
-Setup your password, and press "Create Server"
+Setup your Server's name and password, and press "Create Server"
+Your login will be "root" & the password you set.
 
