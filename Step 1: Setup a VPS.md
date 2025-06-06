@@ -32,7 +32,8 @@ After creating your Kamatera account, proceed to spin up a new server.
  
    ![image](https://github.com/user-attachments/assets/afa889fc-4f9f-4160-9af9-5c8f9957c32e)
 
-   ![image](https://github.com/user-attachments/assets/caac5130-7987-4efa-808b-d6db06f42033)
+   ![image](https://github.com/user-attachments/assets/789e425b-87f9-493a-a93b-4a8d272c73b5)
+
 
 ---
 
