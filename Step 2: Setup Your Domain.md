@@ -48,8 +48,3 @@ To direct all DNS resolution through my VPS, I configured **glue records** on Na
 
 
 4. **Propagation Time**: Wait up to 10–15 minutes for changes to apply globally.
-
-5. **Verification**:
-   Use `dig` or `nslookup` to confirm:
-   ```bash
-   dig @ns1.evilginxtest.shop evilginxtest.shop
