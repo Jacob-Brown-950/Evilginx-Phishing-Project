@@ -7,6 +7,8 @@ In this step, I provisioned a virtual private server (VPS) using Kamatera's free
 Kamatera offers a 30-day free trial with $100 in cloud credits, which is ideal for temporary security labs like this one.
 
 After creating your account, we can go ahead and spin up a new server
+![image](https://github.com/user-attachments/assets/b6ba1919-2365-4458-b75a-d30d8716a06f)
+
 
 ## 📋 VPS Configuration
 
