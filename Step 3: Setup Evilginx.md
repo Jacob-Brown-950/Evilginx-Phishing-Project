@@ -1,9 +1,8 @@
 Before proceeding with the installation of Evilginx, let’s ensure that wget is installed on the VPS.
 
-```bash
 sudo apt update 
 sudo apt install wget -y
-```bash
+
 
 Next, let’s download the Go installation files.
 wget https://golang.org/dl/go1.17.linux-amd64.tar.gz
