@@ -125,4 +125,22 @@ After submitting credentials, Evilginx captures them transparently.
 
 ---
 
-# 🗝
+# 🗝️ Step 8: Extract and Use Session Cookies
+
+Once authentication completes, Evilginx captures valid session cookies.
+
+View active sessions with the appropriate command and extract session tokens.
+
+![Session Cookies](https://github.com/user-attachments/assets/8f293e48-b323-4167-8566-2102eec0da22)
+
+---
+
+## 🔓 Using Captured Sessions
+
+By injecting these cookies into a browser visiting the legitimate site, you gain authenticated access without knowing the victim’s password.
+
+---
+
+# 🎉 Conclusion
+
+Your Evilginx phishing setup is now fully operational, ready to capture credentials and session cookies for further exploitation.
