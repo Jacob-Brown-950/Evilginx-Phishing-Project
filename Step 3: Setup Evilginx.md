@@ -137,7 +137,7 @@ View active sessions with the appropriate command and extract session tokens.
 
 ## 🔓 Using Captured Sessions
 
-By injecting these cookies into a browser visiting the legitimate site, you gain authenticated access without knowing the victim’s password.
+By injecting these cookies into a browser visiting the legitimate site, you gain authenticated access
 
 ---
 
